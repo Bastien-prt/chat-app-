@@ -1,12 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Contact from './components/Contact';
+import React from "react";
+import Users from './components/ContactListe'
 
 function App() {
   return (
     <div className="App">
-    <Contact />
+      <Users />
     </div>
   );
 }
