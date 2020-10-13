@@ -45,8 +45,7 @@
     background: #f4511e;
   }
 
-  .blockStatus{
+  .sousStatus{
     display: flex;
     align-items: center;
-    justify-content: center;
   }
